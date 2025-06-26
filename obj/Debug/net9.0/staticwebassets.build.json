@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "bhfM3WMsWHLUMAScK9Gg6tDhrR67JUMnnavziKDSGsQ=",
+  "Source": "CarInfoAPI",
+  "BasePath": "_content/CarInfoAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

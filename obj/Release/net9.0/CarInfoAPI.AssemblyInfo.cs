@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CarInfoAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02e9fc8494f1e8617383ca03db6448fb951cd7f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a04c9dd8d233800aa4f5992533e7340b1ac90cbb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CarInfoAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CarInfoAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
