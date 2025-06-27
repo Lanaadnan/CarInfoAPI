@@ -3,3 +3,9 @@
 *.suo
 *.vspscc
 *.vssscc
+obj/
+bin/
+*.cache
+*.pdb
+*.dll
+*.exe
