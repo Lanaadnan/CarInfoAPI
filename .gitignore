@@ -1,11 +1,77 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio specific files
 .vs/
 *.user
 *.suo
-*.vspscc
-*.vssscc
-obj/
-bin/
-*.cache
-*.pdb
-*.dll
-*.exe
+*.userosscache
+*.sln.docstates
+
+# Rider IDE files
+.idea/
+
+# ASP.NET Core publish output
+publish/
+
+# Logs
+*.log
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+
+# ASP.NET Core secrets (user secrets)
+secrets.json
+
+# User-specific files
+*.rsuser
+*.resharper
+*.DotSettings.user
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Rider project files
+.idea/
+
+# npm packages (if your project uses npm)
+node_modules/
+
+# Frontend build output (if any frontend included)
+wwwroot/dist/
+
+# Coverage results
+coverage/
+
+# Docker files (if you build images locally and keep config files)
+docker-compose.override.yml
+
+# Test results
+TestResults/
+
+# Resharper
+_ReSharper*/
+
+# Backup files
+*.bak
+*.backup
+
+# JetBrains Rider
+.idea/
+
+# Visual Studio Code settings (optional)
+.vscode/
+
+# Azure Pipelines (optional)
+.azure-pipelines.yml
+
+# dotCover files
+*.dotCover
+
+# User-specific local history files (VSCode or others)
+.history/
+
